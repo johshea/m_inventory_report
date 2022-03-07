@@ -100,7 +100,7 @@ def main(argv):
     print(output)
 
 
-    print("I am Done, The results have been written to Maurices_Inventory.csv")
+    print("I am Done, The results have been written to device_Inventory.csv")
 
 
 if __name__ == '__main__':
