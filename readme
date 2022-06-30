@@ -1,7 +1,4 @@
-this script is a prototype, and very specific. As always it should be executed on aproduction env only after thourough testing.
+this script is a prototype, and very specific. As always it should be executed on a production env only after thourough testing.
 This script functions as a way to pull inventory information from specifically tagged networks
 if no tag is provided it will pull the entire inventory.
 
-Requirments:
-Environment with Python3.8 or higher installed
-Meraki SDK (pip install meraki)
